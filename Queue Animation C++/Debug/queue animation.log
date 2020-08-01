@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  queue animation.cpp
+  Generating Code...
+C:\Users\123\source\repos\queue animation\queue animation.cpp(50): warning C4715: 'dequeue': not all control paths return a value
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  queue animation.vcxproj -> C:\Users\123\source\repos\queue animation\Debug\queue animation.exe

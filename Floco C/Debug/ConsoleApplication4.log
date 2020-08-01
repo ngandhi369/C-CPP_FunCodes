@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  ConsoleApplication4.cpp
+C:\Users\123\Desktop\Codes\github\C - C++ Codes\Floco C++\FLOCOman_new\ConsoleApplication4.cpp(27,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\123\Desktop\Codes\github\C - C++ Codes\Floco C++\FLOCOman_new\ConsoleApplication4.cpp(28,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ConsoleApplication4.vcxproj -> C:\Users\123\Desktop\Codes\github\C - C++ Codes\Floco C++\FLOCOman_new\Debug\ConsoleApplication4.exe

@@ -1,0 +1,3 @@
+C:\Users\123\source\repos\queue animation\Debug\queue animation.vcxprojAssemblyReference.cache
+C:\Users\123\source\repos\queue animation\Debug\queue animation.exe
+C:\Users\123\source\repos\queue animation\Debug\queue animation.pdb

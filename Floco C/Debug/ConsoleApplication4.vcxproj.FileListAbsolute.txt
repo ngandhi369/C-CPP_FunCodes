@@ -1,0 +1,3 @@
+C:\Users\123\Desktop\Codes\github\C - C++ Codes\Floco C++\FLOCOman_new\Debug\ConsoleApplication4.vcxprojAssemblyReference.cache
+C:\Users\123\Desktop\Codes\github\C - C++ Codes\Floco C++\FLOCOman_new\Debug\ConsoleApplication4.exe
+C:\Users\123\Desktop\Codes\github\C - C++ Codes\Floco C++\FLOCOman_new\Debug\ConsoleApplication4.pdb
